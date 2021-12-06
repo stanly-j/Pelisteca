@@ -1,4 +1,4 @@
-# Vidioteca
+# Pelisteca
 
 Es una aplicacion de manejo de actores y peliculas
 
@@ -14,7 +14,3 @@ Es una aplicacion de manejo de actores y peliculas
 *Terminar Modulo de peliculas
 
 *Buscar peliculas por actor
-
-
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
